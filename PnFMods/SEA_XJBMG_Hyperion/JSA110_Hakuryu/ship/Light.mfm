@@ -1,0 +1,17 @@
+<Light.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Light_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/default_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Light_mg.dds	</Texture>
+	</property>
+</Light.mfm>

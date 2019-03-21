@@ -1,0 +1,9 @@
+<JPR001_Type3_No1_Mk28.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/projectile/JPR001_Type3_No1_Mk28_lod1	</parent>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/projectile/JPR001_Type3_No1_Mk28	</nodefullVisual>
+	<extent>	3.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JPR001_Type3_No1_Mk28.model>

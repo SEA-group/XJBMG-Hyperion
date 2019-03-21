@@ -1,0 +1,17 @@
+<JRS069_Radar_Type21_Stand_3_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_ship_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/JRS069_Radar_Type21_Stand_3_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/JRS069_Radar_Type21_Stand_3_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/JRS069_Radar_Type21_Stand_3_a.dds	</Texture>
+	</property>
+</JRS069_Radar_Type21_Stand_3_skinned.mfm>

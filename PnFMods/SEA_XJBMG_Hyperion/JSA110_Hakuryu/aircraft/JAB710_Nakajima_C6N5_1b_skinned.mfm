@@ -1,0 +1,20 @@
+<JAB710_Nakajima_C6N5_1b_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAB710_Nakajima_C6N5_1b_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAB710_Nakajima_C6N5_1b_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/default_n.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+</JAB710_Nakajima_C6N5_1b_skinned.mfm>

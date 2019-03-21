@@ -1,0 +1,14 @@
+<Black_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/default_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black_mg.dds	</Texture>
+	</property>
+</Black_wire.mfm>

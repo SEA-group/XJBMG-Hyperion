@@ -1,0 +1,13 @@
+<JGS038_100mm65_Type89.model>
+	<castsShadow>	true	</castsShadow>
+	<extent>	2.000000	</extent>
+	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/gun/JGS038_100mm65_Type89_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.169586 0.000095 -0.164452	</min>
+		<max>	0.169493 0.216798 0.374908	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/gun/JGS038_100mm65_Type89	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGS038_100mm65_Type89.model>

@@ -1,0 +1,9 @@
+<JSA017_Hakuryu_1942.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/JSA017_Hakuryu_1942_Full_lod4	</parent>
+	<extent>	400.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/JSA017_Hakuryu_1942	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JSA017_Hakuryu_1942.model>
