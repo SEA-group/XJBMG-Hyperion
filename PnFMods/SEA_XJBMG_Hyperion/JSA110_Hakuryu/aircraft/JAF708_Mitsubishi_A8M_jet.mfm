@@ -1,0 +1,14 @@
+<JAF708_Mitsubishi_A8M_jet.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha.fx	</fx>
+	<property>	doubleSided
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF708_Mitsubishi_A8M_jet_a.dds	</Texture>
+	</property>
+</JAF708_Mitsubishi_A8M_jet.mfm>

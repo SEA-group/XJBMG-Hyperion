@@ -642,11 +642,11 @@
 		<node>	chassis_off_BlendBone	</node>
 		<geometry>
 			<vertices>	chassis_off_BlendBoneShape.vertices	</vertices>
-			<primitive>	chassis_off_BlendBoneShape.indices	</primitive>
+			<primitive>	chassis_off_BlendBoneShape.indices	</primitive>			
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
-					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF708_Mitsubishi_A8M.mfm	</mfm>
+					<identifier>	SHIPMAT_PBS_Hull_jet	</identifier>
+					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF708_Mitsubishi_A8M_jet.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
