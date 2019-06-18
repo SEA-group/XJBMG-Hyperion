@@ -160,7 +160,7 @@
 			<primitive>	MidFront_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -188,7 +188,7 @@
 			<primitive>	MidFront_crack_BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -216,7 +216,7 @@
 			<primitive>	MidFront_crack_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -230,7 +230,7 @@
 			<primitive>	MidFront_crack_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -258,7 +258,7 @@
 			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -272,7 +272,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>

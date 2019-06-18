@@ -178,7 +178,7 @@
 			<primitive>	MidBack_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -220,7 +220,7 @@
 			<primitive>	MidBack_crack_MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -234,7 +234,7 @@
 			<primitive>	MidBack_crack_MidFront_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -262,7 +262,7 @@
 			<primitive>	MidBack_crack_Stern_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -276,7 +276,7 @@
 			<primitive>	MidBack_crack_Stern_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -304,7 +304,7 @@
 			<primitive>	MidBack_patch_Stern_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -346,7 +346,7 @@
 			<primitive>	MidBack_patch_Stern_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>

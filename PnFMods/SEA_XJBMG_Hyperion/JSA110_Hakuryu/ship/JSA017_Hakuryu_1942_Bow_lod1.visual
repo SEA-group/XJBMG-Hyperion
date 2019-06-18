@@ -124,7 +124,7 @@
 			<primitive>	Bow_DeckHouse_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -166,7 +166,7 @@
 			<primitive>	Bow_crack_MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -208,7 +208,7 @@
 			<primitive>	Bow_patch_MidFront_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/Black.mfm	</mfm>
 				</material>
 			</primitiveGroup>
