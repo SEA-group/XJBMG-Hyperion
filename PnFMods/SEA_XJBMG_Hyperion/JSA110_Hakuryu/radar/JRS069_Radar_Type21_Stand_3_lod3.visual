@@ -75,7 +75,7 @@
 			<primitive>	RadarStand_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/JRS069_Radar_Type21_Stand_3_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
