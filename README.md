@@ -1,4 +1,9 @@
 ﻿# Hyperion from Honkai Impact 3rd / 崩坏3 休伯利安
+ 
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/SEA-group/XJBMG-Hyperion?include_prereleases)
+![GitHub last commit](https://img.shields.io/github/last-commit/SEA-group/XJBMG-Hyperion)
+![GitHub issues](https://img.shields.io/github/issues-raw/SEA-group/XJBMG-Hyperion)
+![GitHub download count](https://img.shields.io/github/downloads/SEA-group/XJBMG-Hyperion/total)
 
 Skin modification for tier 10 aircraft carrier **Hakuryu**. 
 
