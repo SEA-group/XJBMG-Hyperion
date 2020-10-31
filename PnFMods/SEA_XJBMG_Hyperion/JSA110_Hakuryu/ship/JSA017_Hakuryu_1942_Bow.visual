@@ -29,6 +29,33 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	C02	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	C03	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	C04	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	Bow_DeckHouse_wire	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -96,19 +123,43 @@
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/C01.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	C02	</node>
+		<geometry>
+			<vertices>	C02.vertices	</vertices>
+			<primitive>	C02.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_C02	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/C02.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	2
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	C03	</node>
+		<geometry>
+			<vertices>	C03.vertices	</vertices>
+			<primitive>	C03.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_C03	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/C03.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	3
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	C04	</node>
+		<geometry>
+			<vertices>	C04.vertices	</vertices>
+			<primitive>	C04.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
 					<identifier>	SHIPMAT_PBS_C04	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/C04.mfm	</mfm>

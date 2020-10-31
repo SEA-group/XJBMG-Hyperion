@@ -1,6 +1,6 @@
 <JRS066_Radar_E27_fixed_par.model>
 	<exporter>	1.5	</exporter>
-	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/JRS066_Radar_E27_fixed_par_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/lods/JRS066_Radar_E27_fixed_par_lod1	</parent>
 	<extent>	2.000000	</extent>
 	<castsShadow>	false	</castsShadow>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/JRS066_Radar_E27_fixed_par	</nodefullVisual>

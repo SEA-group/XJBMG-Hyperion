@@ -1,6 +1,6 @@
 <JPT017_Air_Torpedo_Type91_Mod7.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/projectile/JPT017_Air_Torpedo_Type91_Mod7_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/projectile/lods/JPT017_Air_Torpedo_Type91_Mod7_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/projectile/JPT017_Air_Torpedo_Type91_Mod7	</nodefullVisual>
 	<extent>	3.0000	</extent>
 	<castsShadow>	false	</castsShadow>

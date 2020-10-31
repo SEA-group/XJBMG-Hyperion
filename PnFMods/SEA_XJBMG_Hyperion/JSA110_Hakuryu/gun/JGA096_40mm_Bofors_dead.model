@@ -1,6 +1,6 @@
 <JGA096_40mm_Bofors_dead.model>
 	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/gun/JGA096_40mm_Bofors_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/gun/lods/JGA096_40mm_Bofors_dead_lod1	</parent>
 	<extent>	2.0000	</extent>
 	<materialNames />
 	<exporter>	1.6	</exporter>

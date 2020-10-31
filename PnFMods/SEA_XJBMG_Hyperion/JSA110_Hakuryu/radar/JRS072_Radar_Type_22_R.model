@@ -5,7 +5,7 @@
 		<filler>	true	</filler>
 	</action>
 	<extent>	3.000000	</extent>
-	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/JRS072_Radar_Type_22_R_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/lods/JRS072_Radar_Type_22_R_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.038520 0.000223 -0.058992	</min>

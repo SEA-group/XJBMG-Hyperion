@@ -1,0 +1,23 @@
+<JRS044_Radar_Type_A6_lod1.model>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation15rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<extent>	4.0000	</extent>
+	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/lods/JRS044_Radar_Type_A6_lod2	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.011547 0.000000 -0.035194	</min>
+		<max>	0.013524 0.120950 0.036570	</max>
+	</visibilityBox>
+	<animation>
+		<name>	Rotation15rpm	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/Rotation15rpm	</nodes>
+	</animation>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/lods/JRS044_Radar_Type_A6_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JRS044_Radar_Type_A6_lod1.model>

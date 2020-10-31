@@ -1,0 +1,8 @@
+<JPB005_Type2_No80_Mk5_Mod1_Special_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/projectile/lods/JPB005_Type2_No80_Mk5_Mod1_Special_lod3	</parent>
+	<nodefullVisual>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/projectile/lods/JPB005_Type2_No80_Mk5_Mod1_Special_lod2	</nodefullVisual>
+	<extent>	10.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JPB005_Type2_No80_Mk5_Mod1_Special_lod2.model>

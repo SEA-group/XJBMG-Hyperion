@@ -3,7 +3,7 @@
 	<extent>	2.000000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/gun/JGS038_100mm65_Type89_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/gun/lods/JGS038_100mm65_Type89_dead_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/gun/JGS038_100mm65_Type89_dead	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </JGS038_100mm65_Type89_dead.model>
