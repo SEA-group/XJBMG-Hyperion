@@ -629,7 +629,7 @@
 			<primitive>	hullShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF007_Mitsubishi_A7M2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -657,7 +657,7 @@
 			<primitive>	disc_capShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF007_Mitsubishi_A7M2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -671,7 +671,7 @@
 			<primitive>	modShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF007_Mitsubishi_A7M2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -685,7 +685,7 @@
 			<primitive>	hull_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF007_Mitsubishi_A7M2_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -699,7 +699,7 @@
 			<primitive>	pylon_bomb_defaultShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF007_Mitsubishi_A7M2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -713,7 +713,7 @@
 			<primitive>	pylon_rocket_defaultShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF007_Mitsubishi_A7M2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -727,7 +727,7 @@
 			<primitive>	hull_chassis_offShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF007_Mitsubishi_A7M2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -741,7 +741,7 @@
 			<primitive>	hull_chassis_onShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF007_Mitsubishi_A7M2_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

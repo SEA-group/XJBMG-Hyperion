@@ -539,7 +539,7 @@
 			<primitive>	hull_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF708_Mitsubishi_A8M_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -553,7 +553,7 @@
 			<primitive>	chassis_on_BlendBone_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF708_Mitsubishi_A8M.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -581,7 +581,7 @@
 			<primitive>	disc_cap_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF708_Mitsubishi_A8M.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -595,7 +595,7 @@
 			<primitive>	mod_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAF708_Mitsubishi_A8M.mfm	</mfm>
 				</material>
 			</primitiveGroup>

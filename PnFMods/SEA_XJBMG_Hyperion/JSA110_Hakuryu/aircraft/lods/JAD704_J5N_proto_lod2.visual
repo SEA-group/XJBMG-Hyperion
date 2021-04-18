@@ -629,7 +629,7 @@
 			<primitive>	hull_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAD704_J5N_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -657,7 +657,7 @@
 			<primitive>	disc_cap_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAD704_J5N.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -671,7 +671,7 @@
 			<primitive>	mod_lodShape2.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAD704_J5N.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -699,7 +699,7 @@
 			<primitive>	disc_cap_1_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAD704_J5N.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -713,7 +713,7 @@
 			<primitive>	mod_1_lodShape2.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAD704_J5N.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -727,7 +727,7 @@
 			<primitive>	hull_chassis_off_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAD704_J5N_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -741,7 +741,7 @@
 			<primitive>	hull_chassis_on_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAD704_J5N_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

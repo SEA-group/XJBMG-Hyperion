@@ -85,7 +85,7 @@
 			<primitive>	JRS072_Radar_Type_22_RShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_radar	</identifier>
+					<identifier>	SHIPMATX_PBS_radar	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/JRS007_Radar_Type_22_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -566,7 +566,7 @@
 			<primitive>	hull_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_skinned	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAB710_Nakajima_C6N5_1b_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -594,7 +594,7 @@
 			<primitive>	disc_cap_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAB710_Nakajima_C6N5_1b.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -608,7 +608,7 @@
 			<primitive>	mod_lodShape1.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAB710_Nakajima_C6N5_1b.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -622,7 +622,7 @@
 			<primitive>	hull_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAB710_Nakajima_C6N5_1b_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -636,7 +636,7 @@
 			<primitive>	chassis_off_BlendBone_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAB710_Nakajima_C6N5_1b.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -650,7 +650,7 @@
 			<primitive>	chassis_on_BlendBone_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Other	</identifier>
+					<identifier>	SHIPMATX_PBS_Other	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAB710_Nakajima_C6N5_1b.mfm	</mfm>
 				</material>
 			</primitiveGroup>

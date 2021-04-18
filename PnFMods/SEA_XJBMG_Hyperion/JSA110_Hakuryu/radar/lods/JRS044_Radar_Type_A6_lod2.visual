@@ -75,7 +75,7 @@
 			<primitive>	Turret_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director_skinned	</identifier>
+					<identifier>	SHIPMATX_PBS_Director_skinned	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/radar/JRS044_Radar_Type_A6_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

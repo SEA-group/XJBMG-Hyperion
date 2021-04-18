@@ -34,7 +34,7 @@
 			<primitive>	Torpedo_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_NODAMAGE_PBS_Projectile	</identifier>
+					<identifier>	SHIPMATX_NODAMAGE_PBS_Projectile	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/projectile/JPR001_Type3_No1_Mk28.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -38,7 +38,7 @@
 			<primitive>	Full_lod4Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_lod4_Hull	</identifier>
+					<identifier>	SHIPMATX_PBS_lod4_Hull	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/lod4_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -52,7 +52,7 @@
 			<primitive>	DeckHouse_lod4Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_lod4_Deckhouse	</identifier>
+					<identifier>	SHIPMATX_PBS_lod4_Deckhouse	</identifier>
 					<mfm>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/ship/lod4_Deckhouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
