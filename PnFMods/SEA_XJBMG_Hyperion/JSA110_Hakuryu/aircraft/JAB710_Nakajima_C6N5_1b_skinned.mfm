@@ -1,7 +1,7 @@
 <JAB710_Nakajima_C6N5_1b_skinned.mfm>
 	<materialKind>	0	</materialKind>
 	<collisionFlags>	0	</collisionFlags>
-	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<fx>	shaders/std_effects/PBS_ship_emissive_skinned.fx	</fx>
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/SEA_XJBMG_Hyperion/JSA110_Hakuryu/aircraft/JAB710_Nakajima_C6N5_1b_mg.dds	</Texture>
 	</property>
